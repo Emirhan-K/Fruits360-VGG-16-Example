@@ -1,4 +1,4 @@
-# Fruit Recognition Model with Fruit360 Dataset and VGG-16
+# Fruit360 Dataset and VGG-16 Example
 
 This repository contains a deep learning model trained for fruit recognition using the Fruit360 dataset and the VGG-16 architecture. The model is designed to classify various fruits into different categories.
 
